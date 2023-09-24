@@ -21,7 +21,7 @@
         }
 
         let result = document.getElementById("result");
-        result.innerText = costOfRopes;
+        result.innerContent = costOfRopes;
         return costOfRopes;
         // console.log(arr);
         // code logic
